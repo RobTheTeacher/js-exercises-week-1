@@ -106,7 +106,7 @@ displayScope();
 /* *********************************************************************************** */
 
 // Excercise 1
-document.querySelector('h1').textContent = "About " + firstName;
+document.querySelector('h1').textContent = "Variables by " + firstName;
 document.getElementById('first-name').textContent = firstName;
 document.getElementById('birth-year').textContent = birthYear;
 document.getElementById('future-age').textContent = futureAge;
