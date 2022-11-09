@@ -12,4 +12,5 @@ Eg:
 let excercise1 = prompt("Enter a number");
 */
 
+
 });
